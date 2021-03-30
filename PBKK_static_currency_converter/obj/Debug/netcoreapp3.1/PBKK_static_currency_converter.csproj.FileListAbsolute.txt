@@ -1,0 +1,15 @@
+E:\PBKK\PBKK_static_currency_converter\bin\Debug\netcoreapp3.1\PBKK_static_currency_converter.exe
+E:\PBKK\PBKK_static_currency_converter\bin\Debug\netcoreapp3.1\PBKK_static_currency_converter.deps.json
+E:\PBKK\PBKK_static_currency_converter\bin\Debug\netcoreapp3.1\PBKK_static_currency_converter.runtimeconfig.json
+E:\PBKK\PBKK_static_currency_converter\bin\Debug\netcoreapp3.1\PBKK_static_currency_converter.runtimeconfig.dev.json
+E:\PBKK\PBKK_static_currency_converter\bin\Debug\netcoreapp3.1\PBKK_static_currency_converter.dll
+E:\PBKK\PBKK_static_currency_converter\bin\Debug\netcoreapp3.1\PBKK_static_currency_converter.pdb
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.csprojAssemblyReference.cache
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.Form1.resources
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.csproj.GenerateResource.cache
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.AssemblyInfoInputs.cache
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.AssemblyInfo.cs
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.csproj.CoreCompileInputs.cache
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.dll
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.pdb
+E:\PBKK\PBKK_static_currency_converter\obj\Debug\netcoreapp3.1\PBKK_static_currency_converter.genruntimeconfig.cache
